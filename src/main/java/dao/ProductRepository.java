@@ -44,7 +44,7 @@ public class ProductRepository {
 		nbook.setManufacturer("Lg");
 		nbook.setUnitsInStock(1000);
 		nbook.setCondition("Refurbished");
-		nbook.setFilename("gram.jpeg");
+		nbook.setFilename("gram.png");
 		
 		Product tablet=new Product("P1236", "Galaxy Tab S", 900000);
 		tablet.setDescription("212.8*125.6*6.6mm, Super AMOLED display, OctaCore processor");
